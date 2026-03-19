@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Focus Universe</string>
+    <string name="title_activity_main">Focus Universe</string>
+    <string name="package_name">com.focusuniverse.app</string>
+    <string name="custom_url_scheme">com.focusuniverse.app</string>
+</resources>
